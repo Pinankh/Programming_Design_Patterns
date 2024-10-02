@@ -197,3 +197,6 @@
 
 ## Other Awesome Lists
 - Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) list.
+
+## Credit Goes to 
+- For this links credit goes to [Dov Amir](https://github.com/DovAmir).
