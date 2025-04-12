@@ -200,3 +200,11 @@
 
 ## Credit Goes to 
 - For this links credit goes to [Dov Amir](https://github.com/DovAmir).
+
+- <!-- CONTACT -->
+## Contact
+
+Pinankh Patel - pinankhpatel@hotmail.com
+
+Linkedin: https://www.linkedin.com/in/pinankh-patel-19400350/
+
